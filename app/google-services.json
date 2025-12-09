@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "480739618226",
+    "project_id": "dbmahasiswa-d9119",
+    "storage_bucket": "dbmahasiswa-d9119.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480739618226:android:4f6c1f6988709699a608ab",
+        "android_client_info": {
+          "package_name": "com.example.pbptugas10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCttsHJvOGIMef2lUDTAJVGAKwIZe1p-V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480739618226:android:5b58c0c7c9b18d38a608ab",
+        "android_client_info": {
+          "package_name": "com.pbp10.dbmahasiswa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCttsHJvOGIMef2lUDTAJVGAKwIZe1p-V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
